@@ -1,0 +1,18 @@
+{
+  "name": "28scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "get-my-credit-scores.com ◄ Get Your FREE Credit Score get-my-credit-scores.com, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "get-my-credit-scores.com",
+    "credit cards 620 credit score",
+    "does paying off collection improve credit score",
+    "credit score guide",
+    "for credit rating"
+  ],
+  "repository": "https://github.com/truelestor/28scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
